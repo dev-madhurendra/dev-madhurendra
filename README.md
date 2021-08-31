@@ -41,9 +41,8 @@
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://github.com/Madhuredra
+[twitter]: https://twitter.com/bimsil
+[youtube]: https://www.youtube.com/channel/UCFviNmEC__f5SrHygMA8wZg
+[instagram]: https://www.instagram.com/bismil._.says/
+[linkedin]: https://www.linkedin.com/in/madhurendra-tiwari-529470197/
