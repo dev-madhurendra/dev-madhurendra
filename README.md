@@ -1,4 +1,4 @@
-### Hi there, I'm Madhurendra Nath Tiwari - aka [Madhuredra][https://github.com/Madhuredra] 👋
+### Hi there, I'm Madhurendra Nath Tiwari 👋
 
 ## I'm a Engineering Student, Coder, Developer, and Self-Taught-Programmer!!
 
