@@ -38,16 +38,3 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Madhuredra's GitHub Stats" src="https://github-readme-stats.Madhuredra.vercel.app/api?username=Madhuredra&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: 
-[twitter]: https://twitter.com/Madhurendra
-[youtube]: https://youtube.com/StrugglingEngineer
-[instagram]: https://instagram.com/bismil._.says
-[linkedin]: https://linkedin.com/in/Madhurendra Nath Tiwari
