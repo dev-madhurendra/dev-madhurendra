@@ -11,6 +11,20 @@
 - 🥅 2023 Goals: Leran more about ReactJs and new algorithms
 - ⚡ Fun fact: I love to recite and write poetry.
 
+### My Coding Profiles : 
+[<img align="left" alt="" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/leetcode.svg" />][LeetCode]
+[<img align="left" alt="YouTube" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/hackerrank.svg" />][HackerRank]
+[<img align="left" alt="Twitter" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codeforces.svg" />][Codeforces]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codechef.svg" />][Codechef]
+
+<br/>
+
+### Personal Websites : 
+[AllLinksTogether]
+<br/>
+[Portfolio]
+
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -46,8 +60,14 @@
 
 
 
+[AllLinksTogether]:https://madhuredra.github.io/AllLinksTogether
+[Portfolio]:https://madhurendra.herokuapp.com/
 [website]: https://github.com/Madhuredra
 [twitter]: https://twitter.com/bimsil
 [youtube]: https://www.youtube.com/channel/UCFviNmEC__f5SrHygMA8wZg
-[instagram]: https://www.instagram.com/bismil._.says/
+[instagram]: https://www.instagram.com/intellectual.shit/
 [linkedin]: https://www.linkedin.com/in/madhurendra-tiwari-529470197/
+[LeetCode]:https://leetcode.com/or1equals1/
+[HackerRank]:https://www.hackerrank.com/madhurendra786
+[Codeforces]:https://codeforces.com/profile/uninterested._.coder
+[Codechef]:https://www.codechef.com/users/madhurendra_tr
