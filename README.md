@@ -1,10 +1,11 @@
 ### Hi there, I'm Madhurendra Nath Tiwari 👋
 
-### An Engineer | A Web Developer | A Programmer
+### An Engineer | A Web Developer | A Programmer 
 
 <img align="left" alt="" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--z6mxOklY--%2Ft_Resized%2520Artwork%2Fc_fit%2Cg_north_west%2Ch_954%2Cw_954%2Fco_000000%2Ce_outline%3A48%2Fco_000000%2Ce_outline%3Ainner_fill%3A48%2Fco_ffffff%2Ce_outline%3A48%2Fco_ffffff%2Ce_outline%3Ainner_fill%3A48%2Fco_bbbbbb%2Ce_outline%3A3%3A1000%2Fc_mpad%2Cg_center%2Ch_1260%2Cw_1260%2Fb_rgb%3Aeeeeee%2Ft_watermark_lock%2Fc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1599934229%2Fproduction%2Fdesigns%2F13963788_0.jpg&imgrefurl=https%3A%2F%2Fwww.teepublic.com%2Fsticker%2F13963788-talk-is-cheap-show-me-the-code-those-who-code-writ&tbnid=VfaMNatAq7nYOM&vet=12ahUKEwiL1frtyo38AhXVwnMBHZ9KBPAQMyguegUIARCKAg..i&docid=S_uUbI6m1OeE1M&w=630&h=630&q=talk%20is%20cheap%20show%20me%20the%20code&ved=2ahUKEwiL1frtyo38AhXVwnMBHZ9KBPAQMyguegUIARCKAg" />
 
 
+### Eat -> Sleep -> Code -> Repeat
 
 ## I'm a Engineering Student, Coder, Developer, and Self-Taught-Programmer!!
 
