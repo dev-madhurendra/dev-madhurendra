@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madhurendraakela123@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Code | Dev | Poetry | ❤️ 
 
 <br>
 
