@@ -1,11 +1,14 @@
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a></h1>
+
+Get My Resume 📄 : [Resume](https://drive.google.com/drive/u/0/my-drive)
+
 <p >I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.</p>
 
 
 
 <br>
 
-<br>
+
 
 <p><img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/blob/main/animation_500_kxa883sd.gif" alt="dev-madhurendra" /></p>
 
@@ -28,6 +31,9 @@
  <a href="https://twitter.com/devMadhurendra" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@dev.madhurendra" target="blank"><img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
 <br>
