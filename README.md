@@ -1,4 +1,7 @@
-<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a></h1>
+<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
+
+<img src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />
+
 
 Get My Resume 📄 : [Resume](https://drive.google.com/drive/u/0/my-drive)
 
