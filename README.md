@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Madhurendra Nath Tiwari</h1>
-<h3 align="center">Software Developer</h3>
+<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a></h1>
+<p >I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.</p>
+
+
 
 <br>
 
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **madhurendraakela123@gmail.com**
+- 📫 How to reach me : [Click Here](mailto:madhurendraakela123@gmail.com)
 
 - ⚡ Fun fact :- Code | Dev | Poetry | ❤️ 
 
@@ -17,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dev-madhurendra/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/dev-madhurendra/" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/dev.madhurendra_" target="blank"><img align="center"
+  <a href="https://instagram.com/dev.madhurendra_" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://twitter.com/devMadhurendra" target="blank"><img align="center"
+ <a href="https://twitter.com/devMadhurendra" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
@@ -69,25 +71,47 @@
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40"
+      height="40" /> </a> 
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"
+      height="40" />
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"
+      height="40" />
+            <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="tailwindcss" width="40"
+      height="40" />
+                  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40"
+      height="40" />
+                  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"
+      height="40" />
+                        <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"
+      height="40" />
+                              <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"
+      height="40" />
+      </p>
 
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-madhurendra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="dev-madhurendra" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-madhurendra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=dev-madhurendra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="dev-madhurendra" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dev-madhurendra" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dev-madhurendra" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
