@@ -1,69 +1,95 @@
-### Hi there, I'm Madhurendra Nath Tiwari 👋
+<h1 align="center">Hi 👋, I'm Madhurendra Nath Tiwari</h1>
+<h3 align="center">Software Developer</h3>
 
-<img align="left" alt="" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--z6mxOklY--%2Ft_Resized%2520Artwork%2Fc_fit%2Cg_north_west%2Ch_954%2Cw_954%2Fco_000000%2Ce_outline%3A48%2Fco_000000%2Ce_outline%3Ainner_fill%3A48%2Fco_ffffff%2Ce_outline%3A48%2Fco_ffffff%2Ce_outline%3Ainner_fill%3A48%2Fco_bbbbbb%2Ce_outline%3A3%3A1000%2Fc_mpad%2Cg_center%2Ch_1260%2Cw_1260%2Fb_rgb%3Aeeeeee%2Ft_watermark_lock%2Fc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1599934229%2Fproduction%2Fdesigns%2F13963788_0.jpg&imgrefurl=https%3A%2F%2Fwww.teepublic.com%2Fsticker%2F13963788-talk-is-cheap-show-me-the-code-those-who-code-writ&tbnid=VfaMNatAq7nYOM&vet=12ahUKEwiL1frtyo38AhXVwnMBHZ9KBPAQMyguegUIARCKAg..i&docid=S_uUbI6m1OeE1M&w=630&h=630&q=talk%20is%20cheap%20show%20me%20the%20code&ved=2ahUKEwiL1frtyo38AhXVwnMBHZ9KBPAQMyguegUIARCKAg" />
+<br>
 
-- 🌱 I’m currently learning Full STack Development 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Leran more about ReactJs and new algorithms
-- ⚡ Fun fact: I love to recite and write poetry.
+<br>
 
-### My Coding Profiles : 
-[<img align="left" alt="" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/leetcode.svg" />][LeetCode]
-[<img align="left" alt="YouTube" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/hackerrank.svg" />][HackerRank]
-[<img align="left" alt="Twitter" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codeforces.svg" />][Codeforces]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codechef.svg" />][Codechef]
+<p><img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/blob/main/animation_500_kxa883sd.gif" alt="dev-madhurendra" /></p>
 
-<br/>
+- 🌱 I’m currently learning Web Development and other programming languages
 
-### Personal Websites : 
-[AllLinksTogether]
-<br/>
-[Portfolio]
+- 📫 How to reach me **madhurendraakela123@gmail.com**
 
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-### Connect with me:
+<br>
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-madhurendra/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://instagram.com/dev.madhurendra_" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+ <a href="https://twitter.com/devMadhurendra" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+</p>
 
+<br>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> 
+</a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a>  
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> </p>
 
-### Languages and Tools:
+<br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-madhurendra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="dev-madhurendra" 
+    bg_color=#808080/></p>
 
-<br />
-<br />
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-madhurendra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dev-madhurendra" /></p>
 
+<br>
 
-[AllLinksTogether]:https://madhuredra.github.io/AllLinksTogether
-[Portfolio]:https://madhurendra.herokuapp.com/
-[website]: https://github.com/Madhuredra
-[twitter]: https://twitter.com/bimsil
-[youtube]: https://www.youtube.com/channel/UCFviNmEC__f5SrHygMA8wZg
-[instagram]: https://www.instagram.com/intellectual.shit/
-[linkedin]: https://www.linkedin.com/in/madhurendra-tiwari-529470197/
-[LeetCode]:https://leetcode.com/or1equals1/
-[HackerRank]:https://www.hackerrank.com/madhurendra786
-[Codeforces]:https://codeforces.com/profile/uninterested._.coder
-[Codechef]:https://www.codechef.com/users/madhurendra_tr
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dev-madhurendra" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+[Madhurendra Nath Tiwari](https://github.com/dev-madhurendra)
