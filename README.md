@@ -3,7 +3,7 @@
 <img src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />
 
 
-Get My Resume 📄 : [Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view?usp=sharing))
+Get My Resume 📄 : [Resume](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view?usp=sharing)
 
 <p >I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.</p>
 
