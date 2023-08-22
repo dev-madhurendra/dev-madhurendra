@@ -1,21 +1,23 @@
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 
-<img src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />
-
-<h3 align="center">I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.</h3>
+  
+  <h3>
+    <img src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />  
+    I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an      insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.
+  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-madhurendra" /> </p>
 
 
 - 🌱 I’m currently learning **Springboot,NextJS,GraphQL etc.**
 
-- 👨‍💻 All of my projects are available at [https://dev-madhurendra.github.io/Madhurendra-Portfolio/](https://dev-madhurendra.github.io/Madhurendra-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dev-madhurendra.github.io/Madhurendra-Portfolio/)
 
 - 💬 Ask me about **Frontend (ReactJS/TS) , Backend(ExpressJS/NodeJS/Springboot) , DB(MongoDB/MySQL)**
 
-- 📫 How to reach me **madhurendraakela123@gmail.com**
+- 📫 How to reach me [Gmail](mailto@madhurendraakela123@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view)
 
 - ⚡ Fun fact **Code | Dev | Poetry**
 
