@@ -1,7 +1,5 @@
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 
-[![An image of @devmadhurendra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmadhurendra)](https://holopin.io/@devmadhurendra)
-
 <img width="100%" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/e0612a0a-a976-4aa1-b615-d303e5dba868" />
 
   <img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />    
