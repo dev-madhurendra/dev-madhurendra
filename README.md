@@ -6,9 +6,9 @@
 <img width="100%" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/e0612a0a-a976-4aa1-b615-d303e5dba868" />
 
   <img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />    
-  <h3 align="left">
+  <p align="left">
     I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an      insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.
-  </h3>
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-madhurendra" /> </p>
 
