@@ -30,12 +30,12 @@
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-madhurendra&show_icons=true&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dev-madhurendra&show_icons=true&locale=en&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-madhurendra&show_icons=true&locale=en&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-madhurendra&layout=donut-vertical&langs_count=20&theme=dracula) |
 
 
 | GitHub Streak |
 |--------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=dracula) |
 
 [Madhurendra Nath Tiwari](https://github.com/dev-madhurendra)
 
