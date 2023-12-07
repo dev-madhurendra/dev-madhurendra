@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-madhurendra" /> </p>
 
 
-- 🌱 I’m currently learning **Springboot,NextJS,GraphQL etc.**
+- 🌱 I’m currently learning **Django etc.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dev-madhurendra.github.io/Madhurendra-Portfolio/)
 
