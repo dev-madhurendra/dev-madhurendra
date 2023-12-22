@@ -2,16 +2,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="http://dev-madhurendra.github.io/Madhurendra-Portfolio"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
-<p>Software Engineer</p>
-
-<img width="100%" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/e0612a0a-a976-4aa1-b615-d303e5dba868" />
+<h3>&lt;Software Engineer&gt;</h3>
 
   <img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />    
   <p align="left">
     I am a dynamic software engineer who brings expertise, creativity, and dedication to every project. With a proven track record of success and an      insatiable curiosity for innovation, they are poised to make a lasting impact in the world of software development.
   </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-madhurendra" /> </p>
+  <img width="100%" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/e0612a0a-a976-4aa1-b615-d303e5dba868" />
 
 - 🔥 Currently working on **My Portfolio website (React,FastAPI,SpringBoot,SonarCloud)**
 
@@ -43,6 +41,9 @@
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=dracula) |
 
 [Madhurendra Nath Tiwari](https://github.com/dev-madhurendra)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-madhurendra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-madhurendra" /> </p>
+
 
 <p align="center">
 <a href="https://twitter.com/devmadhurendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmadhurendra" height="30" width="40" /></a>
