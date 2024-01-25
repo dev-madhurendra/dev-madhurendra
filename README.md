@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [Gmail](mailto@dev.madhurendra@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g2nixuB5uN75RlNYVRAaAcbNL9Kuvqkh/view?usp=sharing)
 
 - ⚡ Fun fact **Code | Dev | Poetry**
 
