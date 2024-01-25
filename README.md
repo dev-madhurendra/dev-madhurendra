@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="dev-madhurendra.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
+<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="https://dev-madhurendra.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 <h3>&lt;Software Engineer&gt;</h3>
 
   <img align="right" src="https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/4ca00103-8368-4dde-8c09-53d11856b0e4" width="100" height="100" />    
@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Django, FastAPI, SpringBoot, GraphQL etc.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://dev-madhurendra.github.io/Madhurendra-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dev-madhurendra.vercel.app)
 
 - 💬 Ask me about **Frontend (ReactJS/TS) , Backend(ExpressJS/NodeJS/Springboot) , DB(MongoDB/MySQL)**
 
-- 📫 How to reach me [Gmail](mailto@madhurendraakela123@gmail.com)
+- 📫 How to reach me [Gmail](mailto@dev.madhurendra@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s63Y9aUaB9c54U9yLs2LjnphRR0rSCWL/view)
 
