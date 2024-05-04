@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me: 
-![Green Yellow Playful   Celebratory Traditional Graduation Banner](https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/77b02304-1a80-4b1c-8766-2944657f7cd9)
+![Green Yellow Playful   Celebratory Traditional Graduation Banner](https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/ee894764-e2d8-4405-87f9-af9374546550)
+
 
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="https://dev-madhurendra.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 
