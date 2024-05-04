@@ -7,8 +7,17 @@
 
 <h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="https://dev-madhurendra.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 
-🔥 Currently working on my portfolio website (React, FastAPI, Spring Boot, SonarCloud)<br>🌱 Currently learning Django, FastAPI, Spring Boot, GraphQL, and more<br>👨‍💻 Projects available at [Portfolio](https://dev-madhurendra.vercel.app/)<br>💬 Ask me about:<br>  - Frontend: ReactJS/Next.JS/TypeScript<br>  - Backend: ExpressJS/NodeJS/Spring Boot/FastAPI/Django<br>  - Databases: MongoDB/MySQL/VectorDB<br>  - QA: Selenium<br>  - GenAI : LLM/VectorDB/LangChain/GPT<br>📫 Reach me via Gmail: [Mail Me](mailto:dev.madhurendra@gmail.com)<br>📄 Check out my [Resume](https://drive.google.com/file/d/1g2nixuB5uN75RlNYVRAaAcbNL9Kuvqkh/view)<br>⚡ Fun fact: Code | Dev | Poetry<br><br>
-
+**🔥 Currently working on my portfolio website (React, FastAPI, Spring Boot, SonarCloud)**  
+**🌱 Currently learning Django, FastAPI, Spring Boot, GraphQL, and more**  
+**📫 Reach me via Gmail: [Mail Me](mailto:dev.madhurendra@gmail.com)**  
+**📄 Check out my [Resume](https://drive.google.com/file/d/1g2nixuB5uN75RlNYVRAaAcbNL9Kuvqkh/view)**  
+**⚡ Fun fact: Code | Dev | Poetry**  
+**💬 Ask me about:**
+  - **Frontend: ReactJS/Next.JS/TypeScript**
+  - **Backend: ExpressJS/NodeJS/Spring Boot/FastAPI/Django**
+  - **Databases: MongoDB/MySQL/VectorDB**
+  - **QA: Selenium**
+  - **GenAI : LLM/VectorDB/LangChain/GPT**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.madhurendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-madhurendra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devMadhurendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev-madhurendra) 
