@@ -29,11 +29,11 @@
 | ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dev-madhurendra&theme=gruvbox&hide_border=false) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dev-madhurendra&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) |
  
 
-| Random Dev Quote | Random Dev Meme |
-|------------------|-----------------|
-| ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox) | <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> |
+| Random Dev Quote | 
+|------------------|
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) |
 
----
+
 [![](https://visitcount.itsvg.in/api?id=dev-madhurendra&icon=9&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
