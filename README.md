@@ -13,6 +13,7 @@
 **📄 Check out my [Resume](https://drive.google.com/file/d/1g2nixuB5uN75RlNYVRAaAcbNL9Kuvqkh/view)**  
 **⚡ Fun fact: Code | Dev | Poetry**  
 **💬 Ask me about:**
+  - **Building : Dev4Beginners**
   - **Frontend: ReactJS/Next.JS/TypeScript**
   - **Backend: ExpressJS/NodeJS/Spring Boot/FastAPI/Django**
   - **Databases: MongoDB/MySQL/VectorDB**
