@@ -21,7 +21,7 @@
   - **GenAI : LLM/VectorDB/LangChain/GPT**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.madhurendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-madhurendra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devMadhurendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dev4Beginnerss) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.madhurendra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-madhurendra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_madhurendra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev4beginners_yt) 
 
 # 💻 Tech Stack:
 <p>
