@@ -10,7 +10,7 @@
 **🔥 Currently working on my portfolio website (React, FastAPI, Spring Boot, SonarCloud)**  
 **🌱 Currently learning Django, FastAPI, Spring Boot, GraphQL, and more**  
 **📫 Reach me via Gmail: [Mail Me](mailto:dev.madhurendra@gmail.com)**  
-**📄 Check out my [Resume](https://drive.google.com/file/d/1g2nixuB5uN75RlNYVRAaAcbNL9Kuvqkh/view)**  
+**📄 Check out my [Resume](https://drive.google.com/file/d/1qrfy0KKok3S8SVkWTR5ijeJVFMd5ei7w/view?usp=sharing)**  
 **⚡ Fun fact: Code | Dev | Poetry**  
 **💬 Ask me about:**
   - **Building : Dev4Beginners**
