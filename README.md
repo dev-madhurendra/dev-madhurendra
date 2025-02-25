@@ -17,7 +17,7 @@
   - **Frontend: ReactJS/Next.JS/TypeScript**
   - **Backend: ExpressJS/NodeJS/Spring Boot/FastAPI/Django**
   - **Databases: MongoDB/MySQL/VectorDB**
-  - **QA: Selenium**
+  - **QA: Selenium, Cypress, karate, Rest Assured, Postman, BDD, TestNG, NFR, JMeter, DB Testing, Robot Framework, POM**
   - **GenAI : LLM/VectorDB/LangChain/GPT**
 
 ## 🌐 Socials:
