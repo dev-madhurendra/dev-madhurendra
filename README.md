@@ -5,7 +5,7 @@
 ![Green Yellow Playful   Celebratory Traditional Graduation Banner](https://github.com/dev-madhurendra/dev-madhurendra/assets/68775519/ee894764-e2d8-4405-87f9-af9374546550)
 
 
-<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="https://dev-madhurendra.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
+<h1 >Hi 👋, I'm Madhurendra Nath Tiwari <a href="https://dev-madhurendra.in/"><img src="https://cdn-icons-png.flaticon.com/512/9533/9533056.png" height="30" width="30" alt="portfolio" /></a> </h1>
 
 **🔥 Currently working on my portfolio website (React, FastAPI, Spring Boot, SonarCloud)**  
 **🌱 Currently learning Django, FastAPI, Spring Boot, GraphQL, and more**  
